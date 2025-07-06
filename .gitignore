@@ -1,0 +1,8 @@
+# Ignore compiled binaries
+LinkedList
+
+# Ignore debug symbol folders (macOS)
+LinkedList.dSYM/
+BinarySearch
+BinarySearch.dSYM/
+.vscode
